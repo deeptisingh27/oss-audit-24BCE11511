@@ -9,7 +9,16 @@
 ## Chosen Software
 **Git (Version Control System)**
 
-Git is a distributed version control system used to track changes in source code and enable collaboration among developers. It allows multiple developers to work on a project efficiently and maintain version history.
+Git is a **distributed version control system** that helps developers track changes in source code and collaborate efficiently. It is **open-source** and widely used in modern software development.
+
+
+### Features of Git
+- Distributed version control  
+- Fast and efficient  
+- Open-source and free  
+- Supports collaboration  
+- Tracks complete code history  
+- Secure and reliable  
 
 ---
 
@@ -20,7 +29,7 @@ This project is part of the Open Source Software course. It includes:
 
 ---
 
-## Scripts Description
+## Script Descriptions
 
 ### Script 1: System Identity Report
 This script displays basic system information such as:
@@ -84,7 +93,7 @@ sudo apt install git
 
 ---
 
-## How to Run Scripts
+## How to Run the Scripts
 
 ### Step 1: Clone Repository
 
@@ -99,18 +108,35 @@ cd oss-audit-24BCE11511
 ### Step 2: Give Execution Permission
 
 ```
-chmod +x script1.sh script2.sh script3.sh script4.sh script5.sh
+chmod +x script1.sh
+chmod +x script2.sh
+chmod +x script3.sh
+chmod +x script4.sh
+chmod +x script5.sh
 ```
 
 ---
 
-### Step 3: Run Scripts
+### Step 3: Run Each Script
 
+Script 1
 ```
 ./script1.sh
+```
+Script 2
+```
 ./script2.sh
+```
+Script 3
+```
 ./script3.sh
+```
+Script 4
+```
 ./script4.sh
+```
+Script 5
+```
 ./script5.sh
 ```
 
@@ -118,10 +144,11 @@ chmod +x script1.sh script2.sh script3.sh script4.sh script5.sh
 
 ## Notes
 - Scripts were tested using Git Bash on Windows, which provides a Unix-like environment.  
-- Some Linux-specific commands and directories may show minor differences in output.  
+- Some Linux-specific commands and directories may show minor differences in output.
+- Minor limitations may occur due to environment differences, but the overall functionality of the scripts remains unaffected. 
 - Each script includes comments for better understanding.  
 
 ---
 
 ## Conclusion
-This project helped in understanding open-source concepts and practical shell scripting. It provided hands-on experience with Git and basic Linux commands, improving both theoretical and practical knowledge.
+This project helped in understanding open-source concepts along with practical shell scripting. It provided hands-on experience with Git and Linux commands, improving both theoretical knowledge and practical skills. It also highlighted the importance of version control and collaboration in real-world software development.

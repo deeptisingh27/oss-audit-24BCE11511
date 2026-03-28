@@ -78,8 +78,9 @@ The scripts require a Unix-like environment with basic utilities:
 - core utilities (`grep`, `awk`, `du`, `ls`, `uname`, `date`)  
 
 Git should be installed:
+```
 sudo apt install git
-
+```
 
 ---
 
@@ -87,28 +88,31 @@ sudo apt install git
 
 ### Step 1: Clone Repository
 
+```
 git clone https://github.com/deeptisingh27/oss-audit-24BCE11511.git
 
-cd oss-audit-24BC111511
-
+cd oss-audit-24BCE11511
+```
 
 ---
 
 ### Step 2: Give Execution Permission
 
+```
 chmod +x script1.sh script2.sh script3.sh script4.sh script5.sh
-
+```
 
 ---
 
 ### Step 3: Run Scripts
 
+```
 ./script1.sh
 ./script2.sh
 ./script3.sh
 ./script4.sh
 ./script5.sh
-
+```
 
 ---
 

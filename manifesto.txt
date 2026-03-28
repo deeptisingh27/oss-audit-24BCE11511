@@ -1,0 +1,2 @@
+On Fri Mar 27 00:10:29 IST 2026, I believe open source is about sharing.
+Using tools like Git, I want to build open app and share it freely.

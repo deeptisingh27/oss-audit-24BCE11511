@@ -1,0 +1,4 @@
+error: file missing
+info: running
+error: permission denied
+warning: low memory
